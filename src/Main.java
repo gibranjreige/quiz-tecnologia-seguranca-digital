@@ -172,6 +172,7 @@ public class Main {
             }
         }
 
+        // Calcula a porcentagem de acertos
         double media = acertos * 100.0 / questoes.size();
 
         System.out.println();
