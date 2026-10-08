@@ -1,0 +1,10 @@
+# Arquivos gerados pelo compilador Java
+*.class
+out/
+build/
+target/
+
+# Arquivos locais das IDEs
+.idea/
+*.iml
+.vscode/
