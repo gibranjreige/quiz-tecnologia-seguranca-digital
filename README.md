@@ -3,7 +3,7 @@
 **Disciplina:** Algoritmos e Linguagem de Programação II  
 **Aluno:** Gibran Jreige  
 **Professor:** Brenno Pimenta  
-**Faculdade:** PREENCHER NOME DA FACULDADE
+**Faculdade:** UNIFAN
 
 ## Descrição
 
